@@ -1,0 +1,6 @@
+[submodule "scenic"]
+	path = scenic
+	url = https://github.com/amine0110/scenic
+[submodule "big_vision"]
+	path = big_vision
+	url = https://github.com/amine0110/big_vision
